@@ -34,3 +34,16 @@ WHERE rowid NOT IN (
 UPDATE employees
 SET department = 'Unknown'
 WHERE department IS NULL;
+
+🔹 Visualization & Design
+Built in Tableau, structured into:
+Overview: hires, terminations, active employees
+Workforce Breakdown: department, job title, HQ vs. branches
+Demographics: gender ratio, age groups, education levels
+Income Analysis: salary by gender, education, and department
+Designed a clean dashboard background in Figma for better visual storytelling.
+
+🔹 Key Insights
+Gender-based salary disparities exist in higher education groups.
+Branch offices had more employees compared to HQ.
+Education strongly correlated with performance ratings.
