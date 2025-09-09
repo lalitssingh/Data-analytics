@@ -28,6 +28,14 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 
 ---
 
+### 4️⃣ [Deloitte Task (Dashboard)](https://public.tableau.com/shared/ZG4583RW9?:display_count=n&:origin=viz_share_link)  
+•⁠  ⁠Built with *Tableau*  
+•⁠  ⁠Created interactive visualizations for factory downtime and device-type analysis  
+•⁠  ⁠Implemented calculated fields (e.g., *Unhealthy* measure = 10 mins downtime) to model operational risk  
+•⁠  ⁠Dashboard allows drill-down filtering: sel
+
+---
+
 ## 🔹 Tech Stack
 •⁠  ⁠*Python*: Pandas, NumPy  
 •⁠  ⁠*Visualization*: Tableau, Power BI  
