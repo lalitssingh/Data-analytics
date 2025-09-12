@@ -8,22 +8,23 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 ## 🔹 Featured Projects
 
 ### 1️⃣ [HR Analytics Dashboard](https://public.tableau.com/views/HRDashboard_17569191985160/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-•⁠  ⁠Built with *Tableau + Python*  
+•⁠  ⁠Built with *Tableau + SQL*  
 •⁠  ⁠Workforce demographics, attrition insights, salary analysis  
 •⁠  ⁠Goal: Help HR managers make better people decisions  
 
 ---
 
 ### 2️⃣ [Stock Market Analysis](https://public.tableau.com/views/Stocksanalysis_17570680419750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-•⁠  ⁠Built with *Python (Pandas, Matplotlib, Seaborn) + Tableau*  
+•⁠  ⁠Built with *Python (Pandas, NumPy) + Tableau*  
 •⁠  ⁠Analyzed daily returns, volatility, and cumulative returns  
-•⁠  ⁠Visualized risk vs reward for 160 companies  
+•⁠  ⁠Visualized risk vs reward for 160 companies
+•⁠  ⁠Data collected from NSE India, Kaggle
 
 ---
 
 ### 3️⃣ [NGO Donation Analysis](https://public.tableau.com/views/DonationDashboardNGO/Donationdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-•⁠  ⁠Built with *Python + Tableau*  
-•⁠  ⁠Cleaned and analyzed donation records for an NGO (Robin Hood Army)  
+•⁠  ⁠Built with *Tableau + SQL*  
+•⁠  ⁠Cleaned and analyzed donation records.
 •⁠  ⁠Dashboard to track donor contributions, trends over time, and impact metrics  
 
 ---
@@ -32,21 +33,20 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Built with *Tableau*  
 •⁠  ⁠Created interactive visualizations for factory downtime and device-type analysis  
 •⁠  ⁠Implemented calculated fields (e.g., *Unhealthy* measure = 10 mins downtime) to model operational risk  
-•⁠  ⁠Dashboard allows drill-down filtering: sel
 
 ---
 
 ## 🔹 Tech Stack
 •⁠  ⁠*Python*: Pandas, NumPy  
-•⁠  ⁠*Visualization*: Tableau, Power BI  
+•⁠  ⁠*Visualization*: Tableau 
 •⁠  ⁠*Databases*: SQL (MySQL)  
 •⁠  ⁠*Other*: Excel, Figma, Photoshop
 
 ---
 
 ## 🔹 About Me
-I’m passionate about transforming raw data into actionable insights.  
-Let’s connect:  
+Let’s connect: 
+•⁠  Founder : (flemingoprep.com)
 •⁠  ⁠💼 [LinkedIn](www.linkedin.com/in/lalit-singh-827337230)  
 •⁠  ⁠📧 Email: lalitkumarsingh4016@gmail.com
 
