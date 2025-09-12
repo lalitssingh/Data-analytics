@@ -45,7 +45,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 ---
 
 ## 🔹 About Me
-Let’s connect: 
+Let’s connect:  
 •⁠  Founder : [Flemingo Prep](flemingoprep.com)  
 •⁠  ⁠💼 [LinkedIn](www.linkedin.com/in/lalit-singh-827337230)  
 •⁠  ⁠📧 Email: lalitkumarsingh4016@gmail.com
