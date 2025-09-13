@@ -24,7 +24,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 
 ### 3️⃣ [NGO Donation Analysis](https://public.tableau.com/views/DonationDashboardNGO/Donationdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 •⁠  ⁠Built with *Tableau + SQL*  
-•⁠  ⁠Cleaned and analyzed donation records.
+•⁠  ⁠Cleaned and analyzed donation records.  
 •⁠  ⁠Dashboard to track donor contributions, trends over time, and impact metrics  
 
 ---
@@ -38,7 +38,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 
 ## 🔹 Tech Stack
 •⁠  ⁠*Python*: Pandas, NumPy  
-•⁠  ⁠*Visualization*: Tableau 
+•⁠  ⁠*Visualization*: Tableau   
 •⁠  ⁠*Databases*: SQL (MySQL)  
 •⁠  ⁠*Other*: Excel, Figma, Photoshop
 
