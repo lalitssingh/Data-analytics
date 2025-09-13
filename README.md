@@ -17,7 +17,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 ### 2️⃣ [Stock Market Analysis](https://public.tableau.com/views/Stocksanalysis_17570680419750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 •⁠  ⁠Built with *Python (Pandas, NumPy) + Tableau*  
 •⁠  ⁠Analyzed daily returns, volatility, and cumulative returns  
-•⁠  ⁠Visualized risk vs reward for 160 companies
+•⁠  ⁠Visualized risk vs reward for 160 companies  
 •⁠  ⁠Data collected from NSE India, Kaggle
 
 ---
