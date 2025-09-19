@@ -14,6 +14,8 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 
 ![img alt](https://github.com/lalitssingh/Data-analytics/blob/1098de7b3c0f3e88b67e91747589720e81aa7c74/HR%20Summary.png)
 
+![img alt](https://github.com/lalitssingh/Data-analytics/blob/33109d54d51bc94c3494bf5f4dfeba691cfff81a/HR%20Detail.png)
+
 ---
 
 ### 2️⃣ [Stock Market Analysis](https://public.tableau.com/views/Stocksanalysis_17570680419750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
