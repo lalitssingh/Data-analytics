@@ -33,6 +33,8 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Cleaned and analyzed donation records.  
 •⁠  ⁠Dashboard to track donor contributions, trends over time, and impact metrics  
 
+![img alt](https://github.com/lalitssingh/Data-analytics/blob/4bb386f53d1a4616bb0564b03e0526da22da2650/3CD073E6-926D-4670-93E8-600D1602A821.jpeg)
+
 ---
 
 ### 4️⃣ [Deloitte Task (Dashboard)](https://public.tableau.com/shared/ZG4583RW9?:display_count=n&:origin=viz_share_link)  
