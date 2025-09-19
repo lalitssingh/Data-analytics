@@ -14,7 +14,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 
 ![img alt](HR%20Summary.png)
 
-![img alt](https://github.com/lalitssingh/Data-analytics/blob/33109d54d51bc94c3494bf5f4dfeba691cfff81a/HR%20Detail.png)
+![img alt](HR%20Detail.png)
 
 ---
 
@@ -24,7 +24,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Visualized risk vs reward for 160 companies  
 •⁠  ⁠Data collected from NSE India, Kaggle
 
-![img alt](https://github.com/lalitssingh/Data-analytics/blob/4c2614f5ed5cfdab782068ab16634bc76ee60d41/C2846409-6A55-460E-872F-B97F4233D1E0.jpeg)
+![img alt](C2846409-6A55-460E-872F-B97F4233D1E0.jpeg)
 
 ---
 
@@ -33,7 +33,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Cleaned and analyzed donation records.  
 •⁠  ⁠Dashboard to track donor contributions, trends over time, and impact metrics  
 
-![img alt](https://github.com/lalitssingh/Data-analytics/blob/4bb386f53d1a4616bb0564b03e0526da22da2650/3CD073E6-926D-4670-93E8-600D1602A821.jpeg)
+![img alt](3CD073E6-926D-4670-93E8-600D1602A821.jpeg)
 
 ---
 
@@ -42,7 +42,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Created interactive visualizations for factory downtime and device-type analysis  
 •⁠  ⁠Implemented calculated fields (e.g., *Unhealthy* measure = 10 mins downtime) to model operational risk  
 
-![img alt](https://github.com/lalitssingh/Data-analytics/blob/2ed04e91a069424cbca665cf0da7bc5093595dd4/3BD8ED23-D957-4B12-877C-20115E33E908.jpeg)
+![img alt](3BD8ED23-D957-4B12-877C-20115E33E908.jpeg)
 
 ---
 
