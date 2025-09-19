@@ -12,7 +12,7 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Workforce demographics, attrition insights, salary analysis  
 •⁠  ⁠Goal: Help HR managers make better people decisions  
 
-![img alt](https://raw.githubusercontent.com/lalitssingh/Data-analytics/1098de7b3c0f3e88b67e91747589720e81aa7c74/HR%20Summary.png)
+![img alt](HR%20Summary.png)
 
 ![img alt](https://github.com/lalitssingh/Data-analytics/blob/33109d54d51bc94c3494bf5f4dfeba691cfff81a/HR%20Detail.png)
 
