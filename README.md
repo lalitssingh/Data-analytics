@@ -40,6 +40,8 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Created interactive visualizations for factory downtime and device-type analysis  
 •⁠  ⁠Implemented calculated fields (e.g., *Unhealthy* measure = 10 mins downtime) to model operational risk  
 
+![img alt](https://github.com/lalitssingh/Data-analytics/blob/6b6c2098bc23e1b59d05fca0ee9c99f51ae2022c/75F2810C-2C6C-4F34-91EE-32A31E741653.jpeg)
+
 ---
 
 ## 🔹 Tech Stack
