@@ -24,6 +24,8 @@ Here you’ll find my featured projects that demonstrate skills in *data cleanin
 •⁠  ⁠Visualized risk vs reward for 160 companies  
 •⁠  ⁠Data collected from NSE India, Kaggle
 
+![img alt](https://github.com/lalitssingh/Data-analytics/blob/4c2614f5ed5cfdab782068ab16634bc76ee60d41/C2846409-6A55-460E-872F-B97F4233D1E0.jpeg)
+
 ---
 
 ### 3️⃣ [NGO Donation Analysis](https://public.tableau.com/views/DonationDashboardNGO/Donationdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
